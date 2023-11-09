@@ -1,4 +1,5 @@
 {
+  "homepage": "https://khrystynad89.github.io/final-project_Habit-Tracker/",
   "name": "habit-tracker-fp",
   "version": "0.1.0",
   "private": true,
@@ -22,8 +23,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build --no-overlay",
     "test": "react-scripts test",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
