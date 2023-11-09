@@ -1,0 +1,87 @@
+
+ .light {
+  background-color: linear-gradient(170deg, #ECECEA 64.29%, #FFF 93.2%);
+
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  background: linear-gradient(
+    180deg,
+    rgb(236, 236, 234) 68.71%,
+    rgb(255, 255, 255) 100%
+  );
+  background-color:linear-gradient(170deg, #ECECEA 64.29%, #FFF 93.2%);
+
+
+  height: 640px;
+  overflow: hidden;
+  position: relative;
+  width: 360px;
+  color: black;
+}
+
+.light .div {
+  background: linear-gradient(
+    180deg,
+    rgb(236, 236, 234) 68.71%,
+    rgb(255, 255, 255) 100%
+  );
+  background-color: linear-gradient(
+    170deg, 
+    #ECECEA 64.29%,
+     #FFF 80.2%
+  );
+
+
+  height: 640px;
+  overflow: hidden;
+  position: relative;
+  width: 360px;
+}
+
+.dark div{
+  color: white;
+}
+
+.dark {
+  background-color: rgb(51, 47, 47);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  /* background: linear-gradient(170deg, #ECECEA 0.8%, #3F3D39 25.83%); */
+  background: linear-gradient(170deg, #ECECEA 0.8%, #55534F 25.83%); 
+  background-color: rgb(22, 21, 21);
+  height: 640px;
+  overflow: hidden;
+  position: relative;
+  width: 360px;
+  color: white;
+}
+
+.dark .div {
+  /* background: linear-gradient(170deg, #ECECEA 0.8%, #55534F 25.83%); */
+  height: 640px;
+  overflow: hidden;
+  position: relative;
+  width: 360px;
+}
+
+.habit-card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px; 
+  margin-top: 20px; 
+  overflow-y: auto; 
+  max-height: 70%; 
+  color: black;
+}
+
+.dark .dark-theme-image {
+  filter: brightness(0) invert(1);
+}

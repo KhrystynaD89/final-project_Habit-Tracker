@@ -1,0 +1,56 @@
+.box {
+  border: 1px solid #e1e1e1;
+  border-radius: 8px;
+  padding: 10px;
+  width: 90%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.input-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.rectangle-eat-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid #dcdcdc;
+  border-radius: 6px;
+  flex-grow: 1;
+  margin-right: 10px;
+}
+
+.input-content {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.card-input {
+  flex-grow: 1;
+  border: none;
+  border-radius: 4px;
+  padding: 8px 12px;
+  margin-right: 10px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.trash-icon,
+.checkbox-icon,
+.ellipsis-icon {
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
+
+.card-options {
+  display: flex;
+  align-items: center;
+}
+
+.card-checkbox {
+  margin-left: 10px;
+}
