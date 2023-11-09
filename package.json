@@ -1,5 +1,5 @@
 {
-  "homepage": "http://KhrystynaD89.github.io/final-project_Habit-Tracker",
+  
   "dependencies": {
     "axios": "^1.5.0",
     "react-scripts": "^5.0.1",
@@ -12,5 +12,17 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
