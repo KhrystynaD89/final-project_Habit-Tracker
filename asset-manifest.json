@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/final-project_Habit-Tracker/static/css/main.580c098a.css",
+    "main.js": "/final-project_Habit-Tracker/static/js/main.4321e881.js",
+    "static/media/settings.svg": "/final-project_Habit-Tracker/static/media/settings.8588567d7abe6a39f8ce830321ab1234.svg",
+    "index.html": "/final-project_Habit-Tracker/index.html",
+    "static/media/trash.svg": "/final-project_Habit-Tracker/static/media/trash.bba7f8a90befcbd8f9c03856bf0b3e29.svg",
+    "static/media/add-habit-circle-button.svg": "/final-project_Habit-Tracker/static/media/add-habit-circle-button.f19ce0b2b530d385a59aa22a9da2ee4a.svg",
+    "static/media/save.svg": "/final-project_Habit-Tracker/static/media/save.7594d350dc632274f80b9aae9e3c07f0.svg",
+    "static/media/progress.svg": "/final-project_Habit-Tracker/static/media/progress.fb875840099913f1fb3f5b820fc60038.svg",
+    "static/media/Logo.svg": "/final-project_Habit-Tracker/static/media/Logo.6ffba6b563ca941808da8ba3faf7f77d.svg",
+    "static/media/ellipsis.svg": "/final-project_Habit-Tracker/static/media/ellipsis.43ecf751e62ad2cc0518828d94a22f0d.svg",
+    "static/media/home.svg": "/final-project_Habit-Tracker/static/media/home.f981ee9d6dcfecf8c081d9efc60e5d95.svg",
+    "static/media/arrow.svg": "/final-project_Habit-Tracker/static/media/arrow.c3e123cf78bc368a192f3e2dee97daba.svg",
+    "main.580c098a.css.map": "/final-project_Habit-Tracker/static/css/main.580c098a.css.map",
+    "main.4321e881.js.map": "/final-project_Habit-Tracker/static/js/main.4321e881.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.580c098a.css",
+    "static/js/main.4321e881.js"
+  ]
+}
